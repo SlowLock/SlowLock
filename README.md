@@ -1,4 +1,4 @@
-## Hi, my name is SlowLock�
+## Hi, my name is SlowLock
 
 - 📘 estudando Segurança da informação
 
